@@ -86,4 +86,4 @@ Testar outros modelos de séries temporais (ARIMA, LSTM)
 
 Otimizar hiperparâmetros do Prophet
 
-Explorar sazonalidades personalizadas
+Explorar sazonalidades personalizadas.
